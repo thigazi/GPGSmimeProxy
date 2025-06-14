@@ -1,0 +1,8 @@
+greenlet==3.2.3
+M2Crypto==0.45.1
+pygpgme==0.6
+pymilter==1.0.5
+PyYAML==6.0.2
+SQLAlchemy==2.0.41
+typing_extensions==4.14.0
+wheel==0.45.1
